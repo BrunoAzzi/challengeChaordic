@@ -1,0 +1,19 @@
+DESAFIO CHAORDIC
+
+Consiste na construção de uma página, com HTML, CSS e JavaScript.
+
+Você deve montar uma espécie de catálogo que exibe os produtos, suas imagens, nome e preço, de acordo com o que está descrito neste arquivo, no formato JSON: http://roberval.chaordicsystems.com/challenge/challenge.json?callback=X
+
+Nesta fase do processo você não precisa usar JavaScript para nada, nem para ler o arquivo. Podem reproduzir tudo dentro do HTML se quiser.
+
+Se usar algum JavaScript, melhor. Não precisa, mas é legal.
+Se usar jQuery para ler o arquivo e montarem o HTML e CSS dinamicamente, melhor ainda. Não precisa, mas é legal.
+Avaliaremos:
+
+1. O HTML
+2. O CSS
+3. A organização do seu código.
+
+Após a finalização do desenvolvimento, favor disponibilizar o código em sua conta no GitHub.
+
+DICA: Navegue em sites de e-commerce para ver como os produtos, em geral, são exibidos e busque fazer um catálogo de produtos semelhante, mas com os produtos deste arquivo.

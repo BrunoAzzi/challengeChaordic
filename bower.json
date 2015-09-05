@@ -1,0 +1,28 @@
+{
+  "name": "desafioChaordic",
+  "version": "0.0.1",
+  "authors": [
+    "Bruno Azzi <bruno.azzi@hotmail.com>"
+  ],
+  "description": "Uma aplicacao angular de um catalogo de produtos",
+  "main": "app/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests",
+    "app/bower_components/"
+  ],
+  "keywords": [
+    "angular",
+    "product-catalog",
+    "bower",
+    "chaordic"
+  ],
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-resource": "~1.4.5",
+    "Materialize": "materialize#~0.97.0"
+  }
+}
